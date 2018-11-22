@@ -21,8 +21,6 @@ public class WeatherController extends AppCompatActivity {
     // TODO: Set LOCATION_PROVIDER here:
 
 
-
-
     // Member Variables:
     TextView mCityLabel;
     ImageView mWeatherImage;
@@ -43,7 +41,6 @@ public class WeatherController extends AppCompatActivity {
         ImageButton changeCityButton = (ImageButton) findViewById(R.id.changeCityButton);
 
 
-
         // TODO: Add an OnClickListener to the changeCityButton here:
 
     }
@@ -52,25 +49,19 @@ public class WeatherController extends AppCompatActivity {
     // TODO: Add onResume() here:
 
 
-
     // TODO: Add getWeatherForNewCity(String city) here:
-
 
 
     // TODO: Add getWeatherForCurrentLocation() here:
 
 
-
     // TODO: Add letsDoSomeNetworking(RequestParams params) here:
-
 
 
     // TODO: Add updateUI() here:
 
 
-
     // TODO: Add onPause() here:
-
 
 
 }
